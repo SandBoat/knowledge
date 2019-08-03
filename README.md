@@ -6,6 +6,7 @@
 ### 工具
 
 ### 文档
+[ECMAScript® 2019 Language Specification](http://ecma-international.org/ecma-262/)
 
 ##  后端
 
