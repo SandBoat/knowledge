@@ -22,7 +22,10 @@
 
 [github 每日趋势](https://github.com/trending) :fire:
 
-## 待读
+## 待读 & 待分类
+
+[前端大文件上传](https://juejin.im/post/5cf765275188257c6b51775f)
+[性能优化篇 - Performance（工具 & api）](https://juejin.im/post/5c8fa71d5188252d785f0ea3)
 
 
 
