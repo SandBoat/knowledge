@@ -5,6 +5,9 @@
 
 ### 工具
 
+### 性能相关
+[实战篇 - 如何实现和淘宝移动端一样的模块化加载 （task-silce）](https://juejin.im/post/5d33fd0f5188256e820c80d4)
+
 ### 文档
 [ECMAScript® 2019 Language Specification](http://ecma-international.org/ecma-262/)
 
