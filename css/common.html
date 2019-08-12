@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <title>Document</title>
+  <style>
+    .container {
+      width: 100px;
+      height: 100px;
+      background-color: aqua;
+      margin: 50px auto;
+    }
+
+    /* 换行/不换行 */
+    .line-wrap {
+      /* 强制不换行 */
+      white-space: nowrap;
+      /* 自动换行 */
+      /* word-wrap: break-word; */
+      /* 超出显示省略号 */
+      overflow: hidden;
+      text-overflow: ellipsis;
+    }
+
+    /* 垂直居中 */
+    .container-center{
+      display: flex;
+      align-items: center;
+    }
+
+    .center {
+      width: 50px;
+      height: 50px;
+      background-color: aliceblue;
+      margin: 0 auto;
+    }
+
+    /* 左右布局 */
+  </style>
+</head>
+
+<body>
+  <div class="container">
+    <div class="line-wrap">
+      换行换行换行换行换行换行换行换行换行换行换行换行换行换行换行换行换行换行换行换行换行换行换行换行换行换行换行换行换行换行换行换行
+    </div>
+  </div>
+  <div class="container">
+    <div class="line-wrap">
+      linelinelinelinelinelinelinelinelinelinelinelinelinelinelinelinelinelinelinelinelinelinelinelinelinelinelinelineline
+    </div>
+  </div>
+  <div class="container container-center">
+    <div class="center"></div>
+  </div>
+</body>
+
+</html>
