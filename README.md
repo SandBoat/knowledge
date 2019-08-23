@@ -10,10 +10,13 @@
 ### js
 [常用 js](./js/common.md)
 
-### 工具
+### 工具 & 库
+[zdog](https://github.com/metafizzy/zdog) - 3D 设计和动画制作库
 
 ### 性能相关
 [实战篇 - 如何实现和淘宝移动端一样的模块化加载 （task-silce）](https://juejin.im/post/5d33fd0f5188256e820c80d4)
+
+[性能优化篇 - Performance（工具 & api）](https://juejin.im/post/5c8fa71d5188252d785f0ea3)
 
 ### 文档
 [ECMAScript® 2019 Language Specification](http://ecma-international.org/ecma-262/)
@@ -38,8 +41,6 @@
 ## 待读 & 待分类
 
 [前端大文件上传](https://juejin.im/post/5cf765275188257c6b51775f)
-
-[性能优化篇 - Performance（工具 & api）](https://juejin.im/post/5c8fa71d5188252d785f0ea3)
 
 
 
