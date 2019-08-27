@@ -26,7 +26,7 @@
 ## 优秀资源
 ### 书籍
 [阮一峰 —— 互联网上的免费书籍](https://github.com/ruanyf/free-books)
-[Webpack 指南](https://www.webpackjs.com/guides/getting-started/)
+[Webpack 指南](https://www.webpackjs.com/guides/)
 
 
 ### 工具
