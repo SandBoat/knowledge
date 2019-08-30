@@ -41,6 +41,8 @@
 
 [github 每日趋势](https://github.com/trending) :fire:
 
+[流体动画](https://github.com/PavelDoGreat/WebGL-Fluid-Simulation)
+
 ## 待读 & 待分类
 
 [前端大文件上传](https://juejin.im/post/5cf765275188257c6b51775f)
