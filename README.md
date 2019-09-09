@@ -43,6 +43,13 @@
 
 [流体动画](https://github.com/PavelDoGreat/WebGL-Fluid-Simulation)
 
+### 敏捷相关
+  [猪齿鱼文档](https://choerodon.io/zh/docs/concept/)
+
+  [敏捷管理](https://mp.weixin.qq.com/s/xyMsn5p-_t0YW5h3yjM_Iw)
+
+  [gitflow](https://www.cnblogs.com/wish123/p/9785101.html)
+
 ## 待读 & 待分类
 
 [前端大文件上传](https://juejin.im/post/5cf765275188257c6b51775f)
