@@ -10,6 +10,8 @@
 ### js
 [常用 js](./js/common.md)
 
+[小数相关](https://github.com/SandBoat/knowledge/issues/1)
+
 ### 工具 & 库
 [zdog](https://github.com/metafizzy/zdog) - 3D 设计和动画制作库
 
@@ -55,6 +57,3 @@
 ## 待读 & 待分类
 
 [前端大文件上传](https://juejin.im/post/5cf765275188257c6b51775f)
-
-
-
