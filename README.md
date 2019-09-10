@@ -15,6 +15,8 @@
 
 [Git 各类问题解决方案](https://github.com/k88hudson/git-flight-rules/blob/master/README_zh-CN.md)
 
+[vue-element-table 优化](https://github.com/xuliangzhan/vue-element-extends)
+
 ### 性能相关
 [实战篇 - 如何实现和淘宝移动端一样的模块化加载 （task-silce）](https://juejin.im/post/5d33fd0f5188256e820c80d4)
 
