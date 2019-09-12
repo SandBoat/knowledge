@@ -12,6 +12,8 @@
 
 [小数相关](https://github.com/SandBoat/knowledge/issues/1)
 
+[js 错误类型](https://www.jianshu.com/p/ef9f0b1f7382)
+
 ### 工具 & 库
 [zdog](https://github.com/metafizzy/zdog) - 3D 设计和动画制作库
 
@@ -32,6 +34,7 @@
 ## 优秀资源
 ### 书籍
 [阮一峰 —— 互联网上的免费书籍](https://github.com/ruanyf/free-books)
+
 [Webpack 指南](https://www.webpackjs.com/guides/)
 
 
@@ -47,12 +50,14 @@
 
 [流体动画](https://github.com/PavelDoGreat/WebGL-Fluid-Simulation)
 
-### 敏捷相关
+### 敏捷相关 & 团队
   [猪齿鱼文档](https://choerodon.io/zh/docs/concept/)
 
   [敏捷管理](https://mp.weixin.qq.com/s/xyMsn5p-_t0YW5h3yjM_Iw)
 
   [gitflow](https://www.cnblogs.com/wish123/p/9785101.html)
+
+  [前端协作规范](https://juejin.im/post/5d3a7134f265da1b5d57f1ed)
 
 ## 待读 & 待分类
 
