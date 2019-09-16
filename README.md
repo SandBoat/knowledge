@@ -29,6 +29,8 @@
 ### 文档
 [ECMAScript® 2019 Language Specification](http://ecma-international.org/ecma-262/)
 
+[ECMAScript 5.1](http://es5.github.io/)
+
 ##  后端
 
 ## 优秀资源
