@@ -33,6 +33,8 @@
 
 [90行代码，15个元素实现无限滚动](https://sale-dev.saas.crland.com.cn/customerManage/customerInputter) / [代码](https://codesandbox.io/s/react-wuxiangundong-i7ppg)
 
+[Monorepo——大型前端项目的代码管理方式](https://segmentfault.com/a/1190000019309820)
+
 ##  后端
 
 ## 优秀资源
