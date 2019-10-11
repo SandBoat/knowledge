@@ -3,14 +3,14 @@
 
 ##  前端
 
-### CSS
+### CSS`
 
 [常用 css](./css/common.md)
 
 ### js
 [常用 js](./js/common.md)
 
-[小数相关](https://github.com/SandBoat/knowledge/issues/1)
+[小数相关](https://github.com/SandBoat/knowledge/issues/1)~
 
 [js 错误类型](https://www.jianshu.com/p/ef9f0b1f7382)
 
@@ -58,13 +58,13 @@
 [流体动画](https://github.com/PavelDoGreat/WebGL-Fluid-Simulation)
 
 ### 敏捷相关 & 团队
-  [猪齿鱼文档](https://choerodon.io/zh/docs/concept/)
+[猪齿鱼文档](https://choerodon.io/zh/docs/concept/)
 
-  [敏捷管理](https://mp.weixin.qq.com/s/xyMsn5p-_t0YW5h3yjM_Iw)
+[敏捷管理](https://mp.weixin.qq.com/s/xyMsn5p-_t0YW5h3yjM_Iw)
 
-  [gitflow](https://www.cnblogs.com/wish123/p/9785101.html)
+[gitflow](https://www.cnblogs.com/wish123/p/9785101.html)
 
-  [前端协作规范](https://juejin.im/post/5d3a7134f265da1b5d57f1ed)
+[前端协作规范](https://juejin.im/post/5d3a7134f265da1b5d57f1ed)
 
 ## 待读 & 待分类
 
