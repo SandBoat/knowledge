@@ -21,6 +21,8 @@
 
 [vue-element-table 优化](https://github.com/xuliangzhan/vue-element-extends)
 
+[vue 技术解析](https://ustbhuangyi.github.io/vue-analysis)
+
 ### 浏览器
 
 **浏览器进程**
