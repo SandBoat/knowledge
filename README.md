@@ -56,6 +56,59 @@
 
 [如何写出让同事好维护的代码](https://mp.weixin.qq.com/s/4wDViRrfJDlEQbLOoyH2xg)
 
+- 名副其实
+
+    好的变量名告诉你：是什么东西，为什么存在，该怎么使用
+
+- 注释
+
+
+    有表达力的代码是无需注释的。
+
+    ```java
+    // bad
+    // check to see if the employee is eligible for full benefit
+    if ((employee.flags & HOURLY_FLAG) && (employee.age > 65))
+
+    // good
+    if (employee.isEligibleForFullBenefits())
+    ```
+
+    一些好的注释
+
+        1. 法务信息
+
+        2. 对意图的注释，为什么要这么做
+
+        3. 警示
+
+        4. TODO注释
+
+        5. 放大看似不合理之物的重要性
+
+- 函数
+
+    函数的单一职责
+
+        一个函数应该只做一件事，这件事应该能通过函数名就能清晰的展示。
+        判断方法很简单：看看函数是否还能再拆出一个函数。
+
+    函数的抽象层级
+
+        每个函数一个抽象层次，函数中的语句都要在同一个抽象层级，不同的抽象层级不能放在一起。
+        比如我们想把大象放进冰箱，应该是这个样子的：
+        
+    ```
+    def pushElephantIntoRefrige():
+        openRefrige()
+        pushElephant()
+        closeRefrige()
+    ```
+    函数里面的三句代码在同一个层级（高度）描述了要完成把大象放进冰箱这件事顺序相关的三个步骤。显然，pushElephant这个步骤又可能包含很多子步骤，但是在pushElephantIntoRefrige这个层级，是无需知道太多细节的。
+
+
+
+
 ##  后端
 
 ## 优秀资源
