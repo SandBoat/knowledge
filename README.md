@@ -43,7 +43,7 @@
 
 [前端代码质量-圈复杂度原理和实践](https://juejin.im/post/5da34216e51d4578502c24c5#heading-10)
 
-### 文档
+### 文档/文章
 [ECMAScript® 2019 Language Specification](http://ecma-international.org/ecma-262/)
 
 [ECMAScript 5.1](http://es5.github.io/)
@@ -53,6 +53,8 @@
 [Monorepo——大型前端项目的代码管理方式](https://segmentfault.com/a/1190000019309820)
 
 [写给新手前端的各种文件上传攻略，从小图片到大文件断点续传](https://juejin.im/post/5da14778f265da5bb628e590)
+
+[如何写出让同事好维护的代码](https://mp.weixin.qq.com/s/4wDViRrfJDlEQbLOoyH2xg)
 
 ##  后端
 
