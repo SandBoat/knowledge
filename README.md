@@ -3,14 +3,14 @@
 
 ##  前端
 
-### CSS`
+### CSS
 
 [常用 css](./css/common.md)
 
 ### js
 [常用 js](./js/common.md)
 
-[小数相关](https://github.com/SandBoat/knowledge/issues/1)~
+[小数相关](https://github.com/SandBoat/knowledge/issues/1)
 
 [js 错误类型](https://www.jianshu.com/p/ef9f0b1f7382)
 
