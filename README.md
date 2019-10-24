@@ -45,6 +45,30 @@
 
 [前端代码质量-圈复杂度原理和实践](https://juejin.im/post/5da34216e51d4578502c24c5#heading-10)
 
+[5 分钟撸一个前端性能监控工具
+](https://juejin.im/post/5b7a50c0e51d4538af60d995)
+
+- 本文只挑选了最为重要的两个指标进行监控：
+    - 页面加载时间
+    - 资源请求时间
+
+- 页面加载
+
+    ```js
+    // getEntriesByType 是我们获取性能数据的一种方式。 
+    const navTimes = performance.getEntriesByType('navigation')
+    ```
+
+    ![svg](./img/navigation.jpg)
+
+- 资源加载
+
+    ```js
+    performance.getEntriesByType('resource')
+    ```
+
+    ![svg](./img/resource.jpg)
+
 ### 文档/文章
 [ECMAScript® 2019 Language Specification](http://ecma-international.org/ecma-262/)
 
@@ -107,9 +131,6 @@
         closeRefrige()
     ```
     函数里面的三句代码在同一个层级（高度）描述了要完成把大象放进冰箱这件事顺序相关的三个步骤。显然，pushElephant这个步骤又可能包含很多子步骤，但是在pushElephantIntoRefrige这个层级，是无需知道太多细节的。
-
-
-
 
 ##  后端
 
