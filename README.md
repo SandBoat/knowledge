@@ -5,10 +5,10 @@
 
 ### CSS
 
-[常用 css](./css/common.md)
+[常用 css](./css/common.md):memo:
 
 ### js
-[常用 js](./js/common.md)
+[常用 js](./js/common.md):memo:
 
 [小数相关](https://github.com/SandBoat/knowledge/issues/1)
 
@@ -81,6 +81,8 @@
 [写给新手前端的各种文件上传攻略，从小图片到大文件断点续传](https://juejin.im/post/5da14778f265da5bb628e590)
 
 [如何写出让同事好维护的代码](https://mp.weixin.qq.com/s/4wDViRrfJDlEQbLOoyH2xg)
+
+[Vue 单元测试 Vue Test Utils + Jest](./note/vueTest.md) :memo:
 
 - 名副其实
 
