@@ -1,3 +1,10 @@
+<!--
+ * @Author: ymt
+ * @Date: 2019-10-08 20:32:10
+ * @LastEditors: ymt
+ * @LastEditTime: 2019-11-01 15:57:20
+ * @Description: file content
+ -->
 # knowledge
 收藏、记录、学习
 
@@ -82,8 +89,6 @@
 
 [如何写出让同事好维护的代码](https://mp.weixin.qq.com/s/4wDViRrfJDlEQbLOoyH2xg)
 
-[Vue 单元测试 Vue Test Utils + Jest](./note/vueTest.md) :memo:
-
 - 名副其实
 
     好的变量名告诉你：是什么东西，为什么存在，该怎么使用
@@ -133,6 +138,11 @@
         closeRefrige()
     ```
     函数里面的三句代码在同一个层级（高度）描述了要完成把大象放进冰箱这件事顺序相关的三个步骤。显然，pushElephant这个步骤又可能包含很多子步骤，但是在pushElephantIntoRefrige这个层级，是无需知道太多细节的。
+
+[Vue 单元测试 Vue Test Utils + Jest](./note/vueTest.md) :memo:
+
+[调试Jest Chrome VsCode](https://www.chenng.cn/post/How-To-Debug-Jest-Tests.html)
+
 
 ##  后端
 
