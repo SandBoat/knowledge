@@ -2,7 +2,7 @@
  * @Author: ymt
  * @Date: 2019-10-08 20:32:10
  * @LastEditors: ymt
- * @LastEditTime: 2019-11-01 15:57:20
+ * @LastEditTime: 2019-11-05 14:39:17
  * @Description: file content
  -->
 # knowledge
@@ -13,6 +13,12 @@
 ### CSS
 
 [常用 css](./css/common.md):memo:
+
+[CSS 对于页面加载的影响](https://segmentfault.com/a/1190000018130499)
+
+- css加载不会阻塞DOM树的解析
+- css加载会阻塞DOM树的渲染
+- css加载会阻塞后面js语句的执行、
 
 ### js
 [常用 js](./js/common.md):memo:
