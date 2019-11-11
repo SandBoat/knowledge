@@ -2,7 +2,7 @@
  * @Author: ymt
  * @Date: 2019-10-08 20:32:10
  * @LastEditors: ymt
- * @LastEditTime: 2019-11-11 14:44:06
+ * @LastEditTime: 2019-11-11 16:16:43
  * @Description: file content
  -->
 # knowledge
@@ -150,6 +150,8 @@
 [调试Jest Chrome VsCode](https://www.chenng.cn/post/How-To-Debug-Jest-Tests.html)
 
 [前端安全系列（一）：如何防止XSS攻击？](https://tech.meituan.com/2018/09/27/fe-security.html)
+
+[一个合格(优秀)的前端都应该阅读这些文章](https://juejin.im/post/5d387f696fb9a07eeb13ea60)
 
 
 ##  后端
