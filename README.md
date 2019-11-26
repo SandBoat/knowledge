@@ -27,6 +27,9 @@
 
 [js 错误类型](https://www.jianshu.com/p/ef9f0b1f7382)
 
+### node
+[狼叔：如何正确的学习Node.js](https://segmentfault.com/a/1190000013933520?utm_source=tag-newest)
+
 ### 工具 & 库
 [zdog](https://github.com/metafizzy/zdog) - 3D 设计和动画制作库
 
