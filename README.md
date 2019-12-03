@@ -30,6 +30,11 @@
 ### node
 [狼叔：如何正确的学习Node.js](https://segmentfault.com/a/1190000013933520?utm_source=tag-newest)
 
+node学习 - promise：
+- [Node.js最新技术栈之Promise篇](https://cnodejs.org/topic/560dbc826a1ed28204a1e7de)
+- [理解 Promise 的工作原理](https://cnodejs.org/topic/569c8226adf526da2aeb23fd)
+- [Promise 迷你书](http://liubin.org/promises-book/)
+
 ### 工具 & 库
 [zdog](https://github.com/metafizzy/zdog) - 3D 设计和动画制作库
 
