@@ -2,7 +2,7 @@
  * @Author: ymt
  * @Date: 2019-10-08 20:32:10
  * @LastEditors: ymt
- * @LastEditTime: 2019-11-11 16:16:43
+ * @LastEditTime: 2019-12-13 09:25:27
  * @Description: file content
  -->
 # knowledge
@@ -160,6 +160,8 @@ node学习 - promise：
 [前端安全系列（一）：如何防止XSS攻击？](https://tech.meituan.com/2018/09/27/fe-security.html)
 
 [一个合格(优秀)的前端都应该阅读这些文章](https://juejin.im/post/5d387f696fb9a07eeb13ea60)
+
+[git rebase 危害](https://www.fossil-scm.org/fossil/doc/trunk/www/rebaseharm.md)
 
 
 ##  后端
